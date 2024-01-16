@@ -6,7 +6,7 @@ AI online demo
 
 | Name | Demo| Description |
 | ------ | ----- | ---- |
-| [PhotoMaker](https://github.com/TencentARC/PhotoMaker) | [Demo](https://photo-maker.github.io/) | PhotoMaker,Customizing Realistic Human Photos |
+| [PhotoMaker](https://github.com/TencentARC/PhotoMaker) | [Demo](https://huggingface.co/spaces/TencentARC/PhotoMaker) | PhotoMaker,Customizing Realistic Human Photos |
 | Personal_TTS | [Demo](https://modelscope.cn/studios/damo/personal_tts/summary) | Personalized voice customization, voice cloning, TTS synthesis. |
 | [WikiChat](https://github.com/stanford-oval/WikiChat) | [Demo](https://wikichat.genie.stanford.edu/) | WikiChat stops the hallucination of LLM by retrieving data from Wikipedia. |
 | [Qwen-72B-Chat](https://github.com/QwenLM/Qwen) | [Demo](https://modelscope.cn/studios/qwen/Qwen-72B-Chat-Demo/summary) | A 72 billion parameter scale model of the Qwen large model  developed by Alibaba Cloud |
